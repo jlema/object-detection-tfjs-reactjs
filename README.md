@@ -10,6 +10,10 @@ The model can detect 80 classes of objects. [Here is a full list of the object c
 
 ## Running the program
 
+## Screenshot
+
+![Screenshot of puppies being detected](screenshot.jpeg?raw=true 'Screenshot of puppies being detected')
+
 ## Technologies used
 
 - HTML, CSS, JavaScript
@@ -26,3 +30,5 @@ The model can detect 80 classes of objects. [Here is a full list of the object c
 Object Detection model (coco-ssd) from [pre-trained TensorFlow.js library.](https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd)
 
 More info on the [COCO dataset.](https://cocodataset.org/)
+
+Using [hooks with ref callbacks](https://medium.com/@teh_builder/ref-objects-inside-useeffect-hooks-eb7c15198780)
